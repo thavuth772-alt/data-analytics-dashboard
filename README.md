@@ -5,6 +5,7 @@ This project is a Sales Data Analytics and Visualization Dashboard using Python.
 ## Technologies Used
 - Python
 - Pandas
+- Matplotlib
 - Seaborn
 - Streamlit
 
@@ -19,5 +20,5 @@ This project is a Sales Data Analytics and Visualization Dashboard using Python.
 ## Run Project
 
 ```bash
-pip install pandas seaborn streamlit
+pip install matplotlib pandas seaborn streamlit
 streamlit run app.py
